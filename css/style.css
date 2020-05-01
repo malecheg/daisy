@@ -256,3 +256,133 @@ body{
 .nopage{
   background-color: white !important;
 }
+.all{
+  background-color: white !important;
+}
+.all .coc{
+  display: flex;
+  justify-content: space-between;
+  padding:20px 5px;
+  border-top:2px solid #555;
+  border-bottom:2px solid #555;
+
+}
+.ew{
+  color: #555;
+}
+.all .coc a{
+  font-size:20px;
+  color: tomato !important;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition: 0.7s;
+}
+a:hover{
+  text-decoration: none;
+}
+.all .coc a:hover{
+  text-decoration: none;
+  color: red !important;
+  font-size: 20px;
+}
+.row{
+  padding: 0;}
+  .soc{
+  padding-top: 45px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 965px !important;
+  }
+.re{
+  margin-top: 10px;
+}
+.hehe .h6{
+  color: white;
+  position: absolute;
+  font-size: 28px;
+  top:10px;
+  left: 10px;
+  display: block;
+  display: none;
+}
+.soc div .pp{
+  transition: 0.7s;
+  display: inline-block;
+  font-size: 68px;
+  color: white;
+  position: absolute;
+  top: 60px;
+  left:210px;
+  display: none;
+}
+.soc div{
+  position: relative;
+}
+.p{
+  transition: 0.7s;
+  display: inline-block;
+  font-size: 68px;
+  color: white !important;
+  position: absolute;
+  top: 60px;
+  left:90px;
+  display: none;
+}
+.hehe:hover .p{
+  display:inline-block;
+}
+.hehe:hover .pp{
+  display: inline-block;
+}
+.hehe:hover .h6{
+  display: block;
+}
+.hore{
+  margin: auto;
+  margin-top: 45px;
+}
+.pp:hover{
+  color:tomato !important;
+}
+.p:hover{
+  color: tomato !important;
+}
+.tet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.teta{
+  font-size: 28px;
+  font-weight: 500;
+  color: #555;
+  padding-top: 27px;
+}
+.teta span{
+  color: tomato;
+}
+.mar{
+  font-size: 18px;
+  color: #555;
+}
+.tet .fa{
+  font-size: 35px;
+  padding: 0 8px;
+  transition: 0.7s;
+}
+.tet .fa:hover{
+  color: tomato;
+}
+.class{
+  padding-top:50px;
+}
+.class{
+  background-color: white;
+}
+.imig{
+  display:block;
+  margin: auto;
+}
