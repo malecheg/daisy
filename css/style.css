@@ -1,0 +1,258 @@
+.navbar-nav{
+  margin-left: auto;
+}
+.nav-item{
+  padding-right: 20px;
+  color: white !important;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.navbar-brand{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 700 !important;
+  color: white !important;
+}
+}
+.nav-link{
+  transition: 0.5s !important;
+  font-weight: 600;
+}
+.navbar{
+  background-color:#282C34 !important;
+}
+a{
+  color: white !important;
+}
+.navbar-nav .dropdown-menu{
+  background-color: #282C34;
+}
+.dropdown-item:hover{
+  background-color: black !important;
+}
+.clients{
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 51px;
+}
+.in{
+  color: #FF635E
+}
+body{
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: #21252B;
+}
+.seccly{
+  padding-top: 180px;
+  padding-bottom: 250px;
+  background-color: #21252B;
+}
+.line{
+  width: 105px;
+  height:8px;
+  background-color: #4D4C4C;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.your{
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 35px;
+}
+.nav-link:hover{
+  color:#FF5853 !important;
+  border-bottom:4px solid #FF5853;
+}
+.want{
+  width: 205px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#FF5853 !important;
+  border: 2px solid #FF5853;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: 0.7s;
+}
+.want:hover{
+  background-color:#FF5853;
+  color:#21252B !important;
+  text-decoration: none;
+}
+.navbar-toggler-icon{
+  background-color: #FF5853;
+}
+.swhite{
+  padding: 70px 0;
+  background-color: white;
+}
+.swhite h3{
+  font-size: 28px;
+  text-align: center;
+  color: #868686;
+  max-width: 340px;
+  margin: auto;
+  border-bottom:2px solid #868686;
+  padding-bottom: 10px;
+}
+.swhite h3 span{
+  color: #fc635e;
+}
+.swhite__subtitle{
+  max-width: 570px;
+  margin: auto;
+  color: #adadad;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+}
+.swhite .container{
+  padding-top: 75px;
+}
+.swhite .container .col-xl-3{
+  text-align: center;
+}
+.swhite .row img{
+  margin-bottom:20px;
+}
+.swhite .col-xl-3 p{
+  font-size: 20px;
+  color: #868686;
+  margin-bottom: 5px;
+}
+.swhite .col-xl-3 span{
+  width:58px;
+  margin: auto;
+  height: 1px;
+  background-color:#868686;
+  display: inline-block;
+}
+.swhite h5{
+  color: #adadad;
+  font-size: 15px;
+  text-align: center;
+  max-width: 200px;
+  margin: auto;
+  margin-top: 20px;
+}
+.secexp{
+  padding: 80px 0;
+  background-color: #282C34;
+}
+.exp{
+  max-width: 940px;
+  height: 380px;
+  border: 8px solid #939AA9;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.secexp h4{
+  font-size: 50px;
+  margin-top: 100px;
+  color: white;
+  font-weight: 700;
+}
+.secexp a{
+  margin-top:45px !important;
+}
+.secexp h4 span{
+  color: #fc635e;
+}
+.wre{
+  display: inline-block;
+  margin: auto;
+  margin-top: 55px;
+}
+.as2{
+  text-align:center;
+}
+.r{
+  display: none;
+}
+.page{
+  background:#F2F2F2;
+  padding: 55px 0;
+}
+.page h3{
+  font-size: 28px;
+  color: #555;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.page h3 span{
+  color: tomato;
+}
+.page-line{
+  display: block;
+  width: 222px;
+  height: 1px;
+  background: #555;
+  margin: auto;
+  margin-bottom: 66px;
+}
+.span1{
+  height:40px;
+  width: 10px;
+  background: tomato;
+  display: inline-block;
+}
+.somebody{
+  position: absolute;
+  color: #555;
+  font-size: 28px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.flex{
+  margin: 10px 65px 0 0;
+  color: #9e9898;
+  font-size: 15px;
+}
+.more{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top:35px;
+  width: 165px;
+  height: 45px;
+  background-color: tomato;
+  border-radius: 10px;
+  transition: 0.7s;
+}
+.more:hover{
+  text-decoration: none;
+  background: none;
+  border: 2px solid tomato;
+  color: #555 !important;
+  font-weight: 700 !important;
+}
+.noflex{
+  margin: 0;
+  text-align: right;
+}
+.adv{
+  position: absolute;
+  color: #555;
+  margin-left:335px;
+  font-size: 28px;
+  display: inline-block;
+}
+.nospan{
+  position: relative;
+  left:530px;
+  height:40px;
+  width: 10px;
+  background: tomato;
+  display: inline-block;
+}
+.nomore{
+  margin-left: auto ;
+}
+.nopage{
+  background-color: white !important;
+}
